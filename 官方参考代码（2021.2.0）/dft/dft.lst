@@ -1,0 +1,22 @@
+examples_list = \
+basic_dp_complex_dft_1d \
+basic_dp_complex_dft_2d \
+basic_dp_complex_dft_3d \
+basic_dp_real_dft_1d \
+basic_dp_real_dft_2d \
+basic_dp_real_dft_3d \
+basic_sp_complex_dft_1d \
+basic_sp_complex_dft_2d \
+basic_sp_complex_dft_3d \
+basic_sp_real_dft_1d \
+basic_sp_real_dft_2d \
+basic_sp_real_dft_3d \
+config_complex_storage \
+config_dump_descriptor \
+config_number_of_transforms \
+config_number_of_user_threads \
+config_placement \
+config_scale \
+config_thread_limit \
+copy_descriptor \
+error_processing \
